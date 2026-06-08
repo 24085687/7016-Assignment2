@@ -1,2 +1,2 @@
-# 7016-Assignment1
+# 7016-Assignment2
 This repository contains the assignment implementation for AI for Medicine. The project is fully developed and run on Spyder, using the BRFSS health indicators dataset. It applies Logistic Regression and Decision Tree for diabetes risk prediction, and K-Means clustering to segment patients into three risk subgroups. All figures and output files are automatically generated.Exploratory Data Analytics
